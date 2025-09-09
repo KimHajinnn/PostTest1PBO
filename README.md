@@ -1,3 +1,3 @@
 # PostTestPBO
 Nama    : Christian Amsal Asimaro Lumban Tobing
-NIM     : 2409116053
+/n NIM     : 2409116053
