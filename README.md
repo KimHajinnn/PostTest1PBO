@@ -26,9 +26,11 @@ Hasil Pengerjaan PostTest dengan Tema "Manajemen Daftar Komik/Manhwa Online" mer
 
 - 3 gambar di atas adalah tampilan saat memilih opsi 3, yaitu untuk mengubah data yang ada pada data manhwa. setelah memilih untuk mengubah, program akan meminta nomor Manhwa seperti yang ada pada saat menampilkan data manhwa, kemudian setelah memilih manhwa mana yang akan di ubah, program akan memberikan opsi lagu untuk mengubah di bagian apa, seperti judulnya, authornya, Chapternya, Genrenya, atau Statusnya. kemudian setelah mengubah. data akan berubah seperti pada gambar ke 3.
 
-<img width="465" height="629" alt="image" src="https://github.com/user-attachments/assets/6ece807a-575c-4df6-99e5-a71b66a75100" />
-<img width="200" height="41" alt="image" src="https://github.com/user-attachments/assets/2d34b66f-8a34-4f8b-9069-e6264d8ab46a" />
-<img width="480" height="497" alt="image" src="https://github.com/user-attachments/assets/139163f8-95ed-43de-bb32-843e692a7404" />
+1. <img width="465" height="629" alt="image" src="https://github.com/user-attachments/assets/6ece807a-575c-4df6-99e5-a71b66a75100" />
+
+2. <img width="200" height="41" alt="image" src="https://github.com/user-attachments/assets/2d34b66f-8a34-4f8b-9069-e6264d8ab46a" />
+
+3. <img width="480" height="497" alt="image" src="https://github.com/user-attachments/assets/139163f8-95ed-43de-bb32-843e692a7404" />
 
 - 3 gambar di atas adalah tampilan saat memilih opsi 4, yaitu untuk menghapus data yang sudah ada pada data manhwa. setelah memilih untuk menghapus data manhwa, program akan meminta nomor manhwa seperti pada saat mengubah. setelah memasukkan nomor manhwa, maka otomatis manhwa yang ingin dihapus akan terhapus atau hilang dari data seperti yang ditunjukkan pada gambar 3, yang dimana manhwa dengan nomor 5 sudah tidak ada di data karena telah dihapus.
 
