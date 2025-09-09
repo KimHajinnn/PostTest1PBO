@@ -18,11 +18,11 @@ Hasil Pengerjaan PostTest dengan Tema "Manajemen Daftar Komik/Manhwa Online" mer
 
 - Gambar diatas adalah tampilan saat memilih opsi 2, yaitu untuk melihat data apa saja yang sudah ada di dalam program ini. saat dijalankan terdapat 5 Manhwa yang sudah ada termasuk dengan yang baru dibuat sebelumnya. terdapat output baru yaitu "No :" pada output menampilkan data Manhwa, itu adalah nomor urut untuk mengurutkan dan juga sekaligus untuk indikator yang dipakai oleh opsi 3 dan opsi 4.
 
-<img width="512" height="631" alt="image" src="https://github.com/user-attachments/assets/5414b206-3eb7-42f9-a967-4ce55c49960a" />
+1. <img width="512" height="631" alt="image" src="https://github.com/user-attachments/assets/5414b206-3eb7-42f9-a967-4ce55c49960a" />
 
+2. <img width="250" height="168" alt="image" src="https://github.com/user-attachments/assets/2ce10559-fa4e-4302-8c7b-61680248468e" />
 
-<img width="250" height="168" alt="image" src="https://github.com/user-attachments/assets/2ce10559-fa4e-4302-8c7b-61680248468e" />
-<img width="368" height="127" alt="image" src="https://github.com/user-attachments/assets/dfcf1b53-68ae-48cd-b44b-517183cbcfbd" />
+3. <img width="368" height="127" alt="image" src="https://github.com/user-attachments/assets/dfcf1b53-68ae-48cd-b44b-517183cbcfbd" />
 
 - 3 gambar di atas adalah tampilan saat memilih opsi 3, yaitu untuk mengubah data yang ada pada data manhwa. setelah memilih untuk mengubah, program akan meminta nomor Manhwa seperti yang ada pada saat menampilkan data manhwa, kemudian setelah memilih manhwa mana yang akan di ubah, program akan memberikan opsi lagu untuk mengubah di bagian apa, seperti judulnya, authornya, Chapternya, Genrenya, atau Statusnya. kemudian setelah mengubah. data akan berubah seperti pada gambar ke 3.
 
