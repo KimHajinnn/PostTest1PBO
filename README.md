@@ -3,7 +3,11 @@
     NIM     : 2409116053
 
 # A. DESKRIPSI SINGKAT
-Hasil Pengerjaan PostTest dengan Tema _**"Manajemen Daftar Komik/Manhwa Online"**_ merupakan sebuah Aplikasi Manajemen Komik/Manhwa berbasis Teks yang menerapkan konsep CRUD (Create, Read, Update, Delete) yang dimana memungkinkan pengguna untuk dapat Menambahkan, Melihat, Mengubah, dan Menghapus Data Manhwa.
+Hasil Pengerjaan PostTest dengan Tema _**"Manajemen Daftar Komik/Manhwa Online"**_ merupakan sebuah Aplikasi Manajemen Komik/Manhwa berbasis Teks yang menerapkan konsep CRUD (Create, Read, Update, Delete) yang dimana memungkinkan pengguna untuk :
+- Menambah Data Manhwa
+- Melihat Daftar Manhwa
+- Mengubah Data Manhwa
+- Menghapus Data Manhwa.
 
 # B. PENJELASAN ALUR PROGRAM
 ## 1. Menu Utama
