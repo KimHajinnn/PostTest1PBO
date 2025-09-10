@@ -52,6 +52,7 @@ Menampilkan Menu utama yang terdapat
 
 # C. Penjelasan Code
 ## 1. Class Manhwa
+```java
         static class Manhwa {
         String Title;
         String Author;
@@ -67,25 +68,31 @@ Menampilkan Menu utama yang terdapat
             this.Status = Status;
         }
     }
+```
 - Dipakai sebagai Objek untuk menyimpan Data informasi manhwa.
 - Memiliki Atribut Title(Judul), Author, Chapter, Genre, Status Manhwa.
 - Ada memakai constructor untuk menginisialisasi data ketika objek baru dibuat.
 
 ## 2. Main Method
+```java
         public static void main(String[] args) {
             ArrayList<Manhwa> DaftarManhwa = new ArrayList<>();
             Scanner input = new Scanner(System.in);
+```
 - Array DaftarManhwa digunakan untuk menyimpan list data manhwa.
 - Scanner dipakai untuk dapat melakukan input dari keyboard pada saat di run.
 
 ## 3. Data Awal
+```java
         DaftarManhwa.add(new Manhwa("Solo Leveling", "Chugong", 179, "Action/Adventure/Fantasy", "Completed")); 
         DaftarManhwa.add(new Manhwa("Omniscient Readers Viewpoints", "Redice Studio", 278, "Action/Adventure/Fantasy", "Ongoing")); 
         DaftarManhwa.add(new Manhwa("The Novel’s Extra (Remake)", "Jee Gab Song", 142, "Action", "Ongoing")); 
         DaftarManhwa.add(new Manhwa("Revenge of the Iron-Blooded Sword Hound", "I Stepped On Lego", 129, "Action/Adventure/Fantasy/Martial Arts/Supernatural", "Ongoing"));
+```
 - Langsung menambahkan data default supaya list tidak kosong saat pertama dijalankan.
 
 ## 4. Main Menu
+```java
             do {
                 System.out.println("=== Option Manhwa Online ===");
                 System.out.println("1. Add new Manhwa");
@@ -237,6 +244,7 @@ Menampilkan Menu utama yang terdapat
                     default -> System.out.println("Option Invalid, Try Again!!");
                 }
             } while (Menu !=5);
+```
 - memakai do while untuk memastikan menu terus muncul sampai Penggunna memilih Menu 5 yaitu Leave Program (Keluar dari Program).
 - switch(Menu) dipakai untuk menjalankan pilihan sesuai input yang dipilih.
 
