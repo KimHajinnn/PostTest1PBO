@@ -8,7 +8,7 @@ Hasil Pengerjaan PostTest dengan Tema _**"Manajemen Daftar Komik/Manhwa Online"*
 # B. PENJELASAN ALUR PROGRAM
 ## 1. Menu Utama
 Menampilkan Menu utama yang terdapat
-1. Add New Manhwa     --- Untuk Menanmbahkan data Manhwa baru ke daftar
+1. Add New Manhwa     --- Untuk Menambahkan data Manhwa baru ke daftar
 2. Show List Manhwa   --- Untuk Menampilkan Data Manhwa 
 3. Update Manhwa      --- Untuk Mengubah Data Manhwa
 4. Delete Manhwa      --- Untuk Menghapus Data Manhwa  
