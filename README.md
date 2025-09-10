@@ -3,7 +3,7 @@
     NIM     : 2409116053
 
 # A. DESKRIPSI SINGKAT
-Hasil Pengerjaan PostTest dengan Tema "Manajemen Daftar Komik/Manhwa Online" merupakan sebuah Aplikasi Manajemen Komik/Manhwa berbasis Teks yang menerapkan konsep CRUD (Create, Read, Update, Delete) yang dimana memungkinkan pengguna untuk dapat Menambahkan, Melihat, Mengubah, dan Menghapus Data Manhwa.
+Hasil Pengerjaan PostTest dengan Tema _**"Manajemen Daftar Komik/Manhwa Online"**_ merupakan sebuah Aplikasi Manajemen Komik/Manhwa berbasis Teks yang menerapkan konsep CRUD (Create, Read, Update, Delete) yang dimana memungkinkan pengguna untuk dapat Menambahkan, Melihat, Mengubah, dan Menghapus Data Manhwa.
 
 # B. PENJELASAN ALUR PROGRAM
 ## 1. Menu Utama
@@ -16,11 +16,11 @@ Menampilkan Menu utama yang terdapat
 
 ## 2. Add New Manhwa
 - Menanmbahkan data Manhwa baru ke daftar dengan mengisi data Seperti judul, author, chapter, genre, dan status Manhwa.
-- Data akan dimasukkan ke dalam ArrayList.
-- Program Menampilkan "New Manhwa Success added" Setelah Menginput data Manhwa.
+- Data akan dimasukkan ke dalam List Data Manhwa.
+- Program Menampilkan _"New Manhwa Success added"_ Setelah Menginput data Manhwa.
 
 ## 3. Show List Manhwa
-- Jika Data Manhwa Masih kosong maka akan menampilkan pesan "Manhwa List is Empty".
+- Jika Data Manhwa Masih kosong maka akan menampilkan pesan _"Manhwa List is Empty"_.
 - Jika ada terdapat Data maka akan menampilkan seluruh manhwa dengan nomor urut, judul, author, chapter, genre, dan status Manhwa.
 
 ## 4. Update Manhwa
@@ -54,11 +54,11 @@ Menampilkan Menu utama yang terdapat
 
 <img width="407" height="111" alt="image" src="https://github.com/user-attachments/assets/eb6361ec-272d-4f1a-a53d-bdc4766fab4a" />
 
-- Gambar di atas adalah tampilan saat memilih opsi 1, yaitu untuk menambahkan data Manhwa yang baru. untuk menambahkan data yang baru, program akan meminta untuk menginput Judul Manhwa, Author Manhwa, Chapter manhwa saat ini, Genre Manhwa, dan Status Manhwa. saat selesai menginput, akan ada muncul pesan seperti "New Manhwa Success Added" yang berarti manhwa berhasil di tambahkan.
+- Gambar di atas adalah tampilan saat memilih opsi 1, yaitu untuk menambahkan data Manhwa yang baru. untuk menambahkan data yang baru, program akan meminta untuk menginput Judul Manhwa, Author Manhwa, Chapter manhwa saat ini, Genre Manhwa, dan Status Manhwa. saat selesai menginput, akan ada muncul pesan seperti _"New Manhwa Success Added"_ yang berarti manhwa berhasil di tambahkan.
 
 <img width="484" height="628" alt="image" src="https://github.com/user-attachments/assets/8c7ed6f7-c011-4d4c-8518-6ac9413ee719" />
 
-- Gambar diatas adalah tampilan saat memilih opsi 2, yaitu untuk melihat data apa saja yang sudah ada di dalam program ini. saat dijalankan terdapat 5 Manhwa yang sudah ada termasuk dengan yang baru dibuat sebelumnya. terdapat output baru yaitu "No :" pada output menampilkan data Manhwa, itu adalah nomor urut untuk mengurutkan dan juga sekaligus untuk indikator yang dipakai oleh opsi 3 dan opsi 4.
+- Gambar diatas adalah tampilan saat memilih opsi 2, yaitu untuk melihat data apa saja yang sudah ada di dalam program ini. saat dijalankan terdapat 5 Manhwa yang sudah ada termasuk dengan yang baru dibuat sebelumnya. terdapat output baru yaitu _"No :"_ pada output menampilkan data Manhwa, itu adalah nomor urut untuk mengurutkan dan juga sekaligus untuk indikator yang dipakai oleh opsi 3 dan opsi 4.
 
 1. <img width="512" height="631" alt="image" src="https://github.com/user-attachments/assets/5414b206-3eb7-42f9-a967-4ce55c49960a" />
 
