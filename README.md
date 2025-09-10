@@ -2,10 +2,52 @@
     Nama    : Christian Amsal Asimaro Lumban Tobing
     NIM     : 2409116053
 
-# DESKRIPSI SINGKAT
+# A. DESKRIPSI SINGKAT
 Hasil Pengerjaan PostTest dengan Tema "Manajemen Daftar Komik/Manhwa Online" merupakan sebuah Aplikasi Manajemen Komik/Manhwa berbasis Teks yang menerapkan konsep CRUD (Create, Read, Update, Delete) yang dimana memungkinkan pengguna untuk dapat Menambahkan, Melihat, Mengubah, dan Menghapus Data Manhwa.
 
-# PENJELASAN ALUR PROGRAM
+# B. PENJELASAN ALUR PROGRAM
+## 1. Menu Utama
+Menampilkan Menu utama yang terdapat
+1. Add New Manhwa     --- Untuk Menanmbahkan data Manhwa baru ke daftar
+2. Show List Manhwa   --- Untuk Menampilkan Data Manhwa 
+3. Update Manhwa      --- Untuk Mengubah Data Manhwa
+4. Delete Manhwa      --- Untuk Menghapus Data Manhwa  
+5. Leave Program      --- Untuk Keluar/Berhenti dari Program
+
+## 2. Add New Manhwa
+- Menanmbahkan data Manhwa baru ke daftar dengan mengisi data Seperti judul, author, chapter, genre, dan status Manhwa.
+- Data akan dimasukkan ke dalam ArrayList.
+- Program Menampilkan "New Manhwa Success added" Setelah Menginput data Manhwa.
+
+## 3. Show List Manhwa
+- Jika Data Manhwa Masih kosong maka akan menampilkan pesan "Manhwa List is Empty".
+- Jika ada terdapat Data maka akan menampilkan seluruh manhwa dengan nomor urut, judul, author, chapter, genre, dan status Manhwa.
+
+## 4. Update Manhwa
+- Program akan menampilkan daftar manhwa terlebih dahulu.
+- Memilih nomor manhwa yang akan diperbarui.
+- Jika Nomor yang dipilih valid, maka akan muncul submenu :
+  - Update Title
+  - Update Author
+  - Update Chapter
+  - Update Genre
+  - Update Status
+- memilih opsi dan input data baru, data akan langsung diperbarui.
+
+## 5. Delete Manhwa
+- Program menampilkan daftar manhwa terlebih dahulu.
+- Memilih nomor manhwa yang akan dihapus.
+- Jika nomor valid, maka data dihapus dari List Data Manhwa.
+
+## 6. Leave Program
+- Menampilkan pesan :
+
+      Leaving Program!!
+      Thankyou <3
+- Program Berhenti dan Keluar dari Program.
+
+
+# C. Output
 <img width="238" height="106" alt="image" src="https://github.com/user-attachments/assets/cc2e94be-f30e-48df-b470-7ac81bc95088" />
 
 - gambar di atas adalah tampilan awal saat program dijalankan. yaitu dengan menampilkan opsi untuk di pilih, yang dimana terdapat opsi untuk menambahkan Data Manhwa, Melihat data manhwa yang sudah ada, mengubah data manhwa, menghapus data manhwa dan opsi untuk Keluar dari program.
